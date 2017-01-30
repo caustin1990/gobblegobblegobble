@@ -1,0 +1,11 @@
+Waiting for solid works window,Solidworks hasn't opened yet,1472157259399.png,30,,TypeKeys,Key.ALT +f+o
+Opening SolidWorks file,Couldn't find open window for solid works,1471963744703.png,10,1471973716750.png,TypeKeyCombo,Key.ALT+f+o
+,,,,,Sleep,2
+,,,,,TypeKeys,inFileDirectory+Key.Enter
+,,,,,Sleep,2
+,,,,,TypeKeyCombo,Key.ALT
+,,,,,TypeKeys,FILENAME TO BE ENTERRED BY USER
+,,,,,TypeKeys,Key.ENTER
+Sleeping for next step in program,,,,,Sleep,2
+Opening in read only mode,Couldn't find open in read only mode window for SolidWorks,1471014557163.png,10,,TypeKeyCombo,"Key.ALT,r"
+Opened file in SolidWorks,Couldn't find open test file,1472053455435.png,30,1472060933958.png,CheckSuccess,
