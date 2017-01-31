@@ -1,1 +1,0 @@
-java -jar C:\Users\f002nx3\Downloads\sikulix.jar -r "C:\Users\f002nx3\Google Drive \Lab Computer App Installation\Work Environment\simplesikulitest.sikuli"
